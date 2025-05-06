@@ -5,5 +5,6 @@ AI Agents for customer Support- https://jeweled-tapir-616.notion.site/Customer-S
 
 AI Agent user folw for Email Campaigns- https://jeweled-tapir-616.notion.site/Flow-for-AI-Agents-for-Email-Campaigns-1c169e9ab29480ca9cdceb3997dd30f7?pvs=4
 
+Improving Food delivery Apps Case Study - https://docs.google.com/document/d/1FaRzxFlMrFW6mbsTK4h7KcW0SdMRQsWvxMmbNOHN5kQ/edit?usp=sharing
 
 PRD For Shopify Integrationfor WhatsApp business App - https://jeweled-tapir-616.notion.site/Shopify-Integration-for-WhatsApp-Business-App-1b869e9ab2948005a32aec720f2e5691?pvs=4
